@@ -1,0 +1,15 @@
+artifact_uri: /home/ubuntu/certified-developer/MLOps_Professional/mlops_capstone/store/models/robot_maintenance/151240189558065873/379c87d8fece4afca5b354e6adad3a2a/artifacts
+end_time: 1701319601604
+entry_point_name: ''
+experiment_id: '151240189558065873'
+lifecycle_stage: active
+run_id: 379c87d8fece4afca5b354e6adad3a2a
+run_name: skillful-fawn-25
+run_uuid: 379c87d8fece4afca5b354e6adad3a2a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701319599039
+status: 3
+tags: []
+user_id: ubuntu

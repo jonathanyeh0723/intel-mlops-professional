@@ -1,0 +1,15 @@
+artifact_uri: /home/ubuntu/certified-developer/MLOps_Professional/mlops_capstone/store/models/robot_maintenance/470461454562751825/1104475d4e73490c990568eb13897ed3/artifacts
+end_time: 1701313091445
+entry_point_name: ''
+experiment_id: '470461454562751825'
+lifecycle_stage: active
+run_id: 1104475d4e73490c990568eb13897ed3
+run_name: agreeable-mouse-825
+run_uuid: 1104475d4e73490c990568eb13897ed3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701313088080
+status: 3
+tags: []
+user_id: ubuntu

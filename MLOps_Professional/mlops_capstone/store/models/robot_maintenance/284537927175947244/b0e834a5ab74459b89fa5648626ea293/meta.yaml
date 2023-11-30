@@ -1,0 +1,15 @@
+artifact_uri: /home/ubuntu/certified-developer/MLOps_Professional/mlops_capstone/store/models/robot_maintenance/284537927175947244/b0e834a5ab74459b89fa5648626ea293/artifacts
+end_time: 1701313202012
+entry_point_name: ''
+experiment_id: '284537927175947244'
+lifecycle_stage: active
+run_id: b0e834a5ab74459b89fa5648626ea293
+run_name: glamorous-lamb-202
+run_uuid: b0e834a5ab74459b89fa5648626ea293
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701313199429
+status: 3
+tags: []
+user_id: ubuntu
